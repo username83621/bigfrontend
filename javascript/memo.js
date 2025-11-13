@@ -1,5 +1,5 @@
 
-// https://bigfrontend.dev/problem/implement-basic-throttle
+// https://bigfrontend.dev/problem/implement-general-memoization-function
 
 
 const sum = (...args) => args.reduce((sum, val) => sum + val, 0)
